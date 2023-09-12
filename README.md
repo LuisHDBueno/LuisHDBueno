@@ -24,23 +24,33 @@
 ### Linguagens e Ferramentas
 
 + **C++**
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus" width = "40" height = "40"></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus" width = "40" height = "40">
+</a>
     + **Desde:** 02/2023
 
 + **Python**
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
     + **Desde:** 02/2022
 
 + **Microsoft SQL Server**
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/>
+</a>
     + **Desde:** 07/2022
 
 + **Scilab**
-<a href="https://www.scilab.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" alt="scilab" width="80" height="40"/> </a>
+<a href="https://www.scilab.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" alt="scilab" width="80" height="40"/>
+</a>
     + **Desde:** 07/2022
 
 + **Microsoft Excel**
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
+</a>
     + **Desde:** 01/2019
 
 
@@ -84,23 +94,33 @@
 ### Languages and Tools
 
 + **C++**
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus" width = "40" height = "40"></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus" width = "40" height = "40">
+</a>
     + **Since:** 02/2023
 
 + **Python**
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
     + **Since:** 02/2022
 
 + **Microsoft SQL Server**
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/>
+</a>
     + **Since:** 07/2022
 
 + **Scilab**
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" alt="scilab" width="80" height="80"/> </a>
+<a href="https://www.scilab.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" alt="scilab" width="80" height="40"/>
+</a>
     + **Since:** 07/2022
 
 + **Microsoft Excel**
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
+</a>
     + **Since:** 01/2019
 
 ### Connect with me:
